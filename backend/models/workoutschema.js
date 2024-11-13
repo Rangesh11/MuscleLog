@@ -20,4 +20,4 @@ const workoutschema =new Schema({
     }
 },{timeStamps:true})
 
-module.exports=mongoose.model("workout",workoutschema)
+module.exports=mongoose.model("Workout",workoutschema)
